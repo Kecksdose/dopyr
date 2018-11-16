@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Kecksdose/dopyr.svg?branch=master)](https://travis-ci.org/Kecksdose/dopyr)
+[![codecov](https://codecov.io/gh/Kecksdose/dopyr/branch/master/graph/badge.svg)](https://codecov.io/gh/Kecksdose/dopyr)
 
 `dopyr`: A small python framework to produce plots and do calculations commonly used in HEP.
 --------------------------------------------------------------------------------------------
