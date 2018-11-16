@@ -46,6 +46,7 @@ extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
+    'sphinx.ext.napoleon'  # To use google documentation syntax
 ]
 
 # Add any paths that contain templates here, relative to this directory.
